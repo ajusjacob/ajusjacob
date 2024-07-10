@@ -34,6 +34,4 @@ src="https://img.shields.io/github/followers/ajusjacob?logo=github&style=for-the
 
 <a href="http://www.github.com/ajusjacob"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajusjacob&stroke=14b8a6&background=000000&ring=3382ed&fire=3382ed&currStreakNum=14b8a6&currStreakLabel=3382ed&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/ajusjacob"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ajusjacob&bg_color=000000&color=14b8a6&line=22c55e&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/ajusjacob" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajusjacob&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
