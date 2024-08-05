@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hello! I'm a passionate web developer with a strong foundation in frontend and backend technologies. I hold a B.Tech in Electrical & Electronics Engineering from Mar Athanasius College of Engineering and have honed my skills in Java, HTML, CSS, and Git.
+Hello! I'm a passionate web developer with a B.Tech in Electrical & Electronics Engineering. Passionate about frontend technologies, skilled in Java, SQL, HTML, CSS, and Git. Experienced with Spring Boot and Javalin. 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ajusjacob987@gmail.com](mailto:ajusjacob987@gmail.com)
