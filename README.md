@@ -8,7 +8,7 @@ Hello! I'm a passionate web developer with a B.Tech in Electrical & Electronics 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ajusjacob987@gmail.com](mailto:ajusjacob987@gmail.com)
-* 🧠  I'm learning Java, Springboot, REST API
+* 🧠  I'm learning Java, Springboot
 * ⚡  I occasionally edit videos
 
 <a href="https://www.github.com/ajusjacob" target="_blank" rel="noreferrer"><img
